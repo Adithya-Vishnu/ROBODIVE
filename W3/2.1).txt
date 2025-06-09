@@ -1,0 +1,10 @@
+2.1)
+Acceleration along each axis:
+X-axis: 0 m/s^2
+Y-axis: 0 m/s^2
+Z-axis: Approximately 9.8 m/s^2
+
+Angular Velocity:
+X axis: 0 m/s
+Y axis: 0 m/s
+Z axis: 0 m/s
